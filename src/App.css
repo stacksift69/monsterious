@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+.logo-main{
+  color: rgb(14, 43, 82);
+  font-family: 'Cookie', cursive;
+  font-size: 60px;
+}
+body{
+  background: rgb(156,199,169);
+  background: linear-gradient(139deg, rgb(127, 184, 206) 0%, rgb(65, 129, 202) 100%); 
+}
