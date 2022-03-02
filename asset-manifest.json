@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/monsterious/static/css/main.181e46f8.css",
+    "main.js": "/monsterious/static/js/main.952e9ff9.js",
+    "static/js/787.28cb0dcd.chunk.js": "/monsterious/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/monsterious/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/monsterious/index.html",
+    "main.181e46f8.css.map": "/monsterious/static/css/main.181e46f8.css.map",
+    "main.952e9ff9.js.map": "/monsterious/static/js/main.952e9ff9.js.map",
+    "787.28cb0dcd.chunk.js.map": "/monsterious/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.181e46f8.css",
+    "static/js/main.952e9ff9.js"
+  ]
+}
